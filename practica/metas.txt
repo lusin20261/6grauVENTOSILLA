@@ -1,0 +1,4 @@
+1 ser un ingeniero 
+2 ser millonario
+3 ser estable
+4 tener siempre trabajo
