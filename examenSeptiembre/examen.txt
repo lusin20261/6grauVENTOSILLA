@@ -1,0 +1,5 @@
+primero abri kitty para hacer el examen despues entre a github y entre a mi perfil 
+para poder clonar github y ponerlo en kitty luego puse mkdir 6grauVENTOSILLA  
+luego puse cd mi "6grauVENTOSILLA"y clonar mi repositorio parar luego crear examensetiembre
+despues cree y entre a examen.txt luego puse code . para entrar a linux y poder hacer mi descripcion
+para poder aprobar mi exmen 
